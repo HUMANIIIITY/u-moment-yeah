@@ -1,8 +1,8 @@
-# Wide Moment
+# u-moment-yeah!
 
 独立静态网页：复古即时成像相机、照片显影动画与内嵌音乐。
 
-网站：https://humaniiiity.github.io/wide-moment/
+网站：https://humaniiiity.github.io/u-moment-yeah/
 
 `index.html` 为用户提供的完整 HTML，照片和音乐均已内嵌，无外部资源依赖。
 
